@@ -1,0 +1,6 @@
+{
+  "rootDir": "../",
+  "globalSetup": "./core/jest/globalsetup.js",
+  "globalTeardown": "./core/jest/globalteardown.js",
+  "verbose": false
+}
